@@ -1,0 +1,10 @@
+date,close_cents,dividend_cents,source,note
+2026-10-29,10273,0,stockanalysis.com,last day in the backtest data
+2026-10-30,10040,0,stockanalysis.com,
+2026-11-02,10165,0,stockanalysis.com,
+2026-11-03,10131,0,stockanalysis.com,
+2026-11-05,10586,0,stockanalysis.com,no 4 Nov row in source
+2026-11-06,10535,0,stockanalysis.com,
+2026-11-09,10742,0,stockanalysis.com,
+2026-11-12,10591,0,sharenet.co.za,10 and 11 Nov not found; change bridged
+2026-11-13,10524,0,sharenet.co.za,
