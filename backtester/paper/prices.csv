@@ -8,4 +8,5 @@ date,close_cents,dividend_cents,source,note
 2026-11-09,10742,0,stockanalysis.com,
 2026-11-12,10591,0,sharenet.co.za,10 and 11 Nov not found; change bridged
 2026-11-13,10524,0,sharenet.co.za,
-2026-11-16,10435,0,sharenet.co.za,last delayed price shown was 15:02
+2026-11-16,10474,0,sharenet.co.za,official close (corrected next day)
+2026-11-17,10348,0,sharenet.co.za,provisional: 15:59 delayed price; corrected to official close next day
