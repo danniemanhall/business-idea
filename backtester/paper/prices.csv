@@ -10,4 +10,5 @@ date,close_cents,dividend_cents,source,note
 2026-11-13,10524,0,sharenet.co.za,
 2026-11-16,10474,0,sharenet.co.za,official close (corrected next day)
 2026-11-17,10350,0,sharenet.co.za,official close (corrected next day)
-2026-11-18,9969,0,sharenet.co.za,provisional: 17:00 delayed price; corrected to official close next day
+2026-11-18,9969,0,sharenet.co.za,official close (confirmed by 19 Nov move of -0.41%)
+2026-11-19,9928,0,sharenet.co.za,official close (20 Nov price not yet published at check time)
