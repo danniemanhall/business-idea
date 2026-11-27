@@ -1,0 +1,21 @@
+date,close_cents,dividend_cents,source,note
+2026-10-29,10273,0,stockanalysis.com,last day in the backtest data
+2026-10-30,10040,0,stockanalysis.com,
+2026-11-02,10165,0,stockanalysis.com,
+2026-11-03,10131,0,stockanalysis.com,
+2026-11-05,10586,0,stockanalysis.com,no 4 Nov row in source
+2026-11-06,10535,0,stockanalysis.com,
+2026-11-09,10776,0,sharenet.co.za,official close (Sharenet share history)
+2026-11-10,10712,0,sharenet.co.za,official close (Sharenet share history)
+2026-11-11,10642,0,sharenet.co.za,official close (Sharenet share history)
+2026-11-12,10591,0,sharenet.co.za,official close (Sharenet share history)
+2026-11-13,10524,0,sharenet.co.za,
+2026-11-16,10474,0,sharenet.co.za,official close (corrected next day)
+2026-11-17,10350,0,sharenet.co.za,official close (corrected next day)
+2026-11-18,9969,0,sharenet.co.za,official close (confirmed by 19 Nov move of -0.41%)
+2026-11-19,9928,0,sharenet.co.za,official close (20 Nov price not yet published at check time)
+2026-11-20,9753,0,sharenet.co.za,official close (corrected next day)
+2026-11-23,9918,0,sharenet.co.za,official close (Sharenet share history)
+2026-11-24,9927,0,sharenet.co.za,official close (Sharenet share history)
+2026-11-25,9715,0,sharenet.co.za,official close (Sharenet share history)
+2026-11-26,9930,0,sharenet.co.za,official close (Sharenet share history)
