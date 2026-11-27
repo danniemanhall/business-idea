@@ -1,13 +1,14 @@
 # Practice trading status (no real money)
 
-Last close: 2026-11-25 at R97.15
-Next step: Keep holding. Sell once a close is above R103.32.
-Practice account: R9,756.86 (started with R10,000 on 2026-11-13)
-Buy-and-hold over the same days: R9,231.28
+Last close: 2026-11-26 at R99.30
+Next step: Keep holding. Sell once a close is above R103.16.
+Practice account: R9,972.79 (started with R10,000 on 2026-11-13)
+Buy-and-hold over the same days: R9,435.58
 Trades so far: 1
 
 | Date | Close | Buy level | Sell level | Rule | Holding | Account |
 |---|---|---|---|---|---|---|
+| 2026-11-26 | R99.30 | R99.13 | R103.16 | IN | Satrix 40 | R9,972.79 |
 | 2026-11-25 | R97.15 | R99.28 | R103.32 | IN | Satrix 40 | R9,756.86 |
 | 2026-11-24 | R99.27 | R99.62 | R103.52 | IN | Satrix 40 | R9,969.77 |
 | 2026-11-23 | R99.18 | R99.76 | R103.72 | IN | Satrix 40 | R9,960.73 |
